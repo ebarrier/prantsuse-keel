@@ -1,11 +1,12 @@
 ---
 layout: page
 title: "Leçon 3"
+nav_order: 3
 permalink: /:path/:basename
 parent: "Minu rõõm"
 ---
 
-## A. Je sais. - Je ne sais pas
+## A. Je sais. - Je ne sais pas.
 1. Je ne parle pas chinois.  
 2. Je n’aime pas les bananes.  
 3. Je ne peux pas ouvrir la fenêtre.  
@@ -19,7 +20,7 @@ parent: "Minu rõõm"
 11. Je m’appelle Louis(e).  
 12. Je ne me lave pas à l’eau chaude.  
 
-## B. C’est un livre. - Ce n’est pas un livre  
+## B. C’est un livre. - Ce n’est pas un livre.  
 1. Ce n’est pas un manuel.  
 2. Ce ne sont pas des manuels.  
 3. Ce n’est pas une chaise.  

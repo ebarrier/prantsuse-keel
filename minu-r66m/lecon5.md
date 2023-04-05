@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Leçon 5"
+nav_order: 5
 permalink: /:path/:basename
 parent: "Minu rõõm"
 ---
@@ -30,7 +31,7 @@ parent: "Minu rõõm"
 8. Puis-je sentir ce parfum?  
 9. Puis-je manger ces bonbons?  
 10. Puis-je prendre cette pomme?  
-11. Puis-je ouvrir cette fenêtre?
+11. Puis-je ouvrir cette fenêtre?  
 12. Puis-je regarder ces photos?  
 
 ## C. Je joue à la balle. - J'ai joué à la balle.  

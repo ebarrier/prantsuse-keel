@@ -1,11 +1,12 @@
 ---
 layout: page
 title: "Leçon 4"
+nav_order: 4
 permalink: /:path/:basename
 parent: "Minu rõõm"
 ---
 
-## A. Je joue. - j'ai joué  
+## A. Je joue - j'ai joué  
 1. J'ai parlé  
 2. Tu as parlé  
 3. Il a parlé  

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Leçon 1"
+nav_order: 1
 permalink: /:path/:basename
 parent: "Minu rõõm"
 ---
