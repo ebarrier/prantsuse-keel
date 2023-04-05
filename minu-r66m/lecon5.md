@@ -2,6 +2,7 @@
 layout: page
 title: "Leçon 5"
 permalink: /:path/:basename
+parent: "Minu rõõm"
 ---
 
 ## A. du / de l' / de la / des  

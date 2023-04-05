@@ -2,6 +2,7 @@
 layout: page
 title: "Leçon 4"
 permalink: /:path/:basename
+parent: "Minu rõõm"
 ---
 
 ## A. Je joue. - j'ai joué  

@@ -2,6 +2,7 @@
 layout: page
 title: "Leçon 1"
 permalink: /:path/:basename
+parent: "Minu rõõm"
 ---
 
 ## A. un, une, des / le, la, les  

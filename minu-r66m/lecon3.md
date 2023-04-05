@@ -2,6 +2,7 @@
 layout: page
 title: "Leçon 3"
 permalink: /:path/:basename
+parent: "Minu rõõm"
 ---
 
 ## A. Je sais. - Je ne sais pas

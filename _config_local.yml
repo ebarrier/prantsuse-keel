@@ -9,3 +9,5 @@ aux_links:
   Source code on Github: https://github.com/ebarrier/prantsuse-keel
 
 color_scheme: dark
+
+nav_sort: case_insensitive
