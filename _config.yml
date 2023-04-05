@@ -5,6 +5,7 @@ remote_theme: just-the-docs/just-the-docs
 # baseurl: ""
 # url: ""
 
-#aux_links:
-#  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+aux_links:
+  Source code on Github: https://github.com/ebarrier/prantsuse-keel
 
+color_scheme: dark
