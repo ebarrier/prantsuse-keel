@@ -8,4 +8,4 @@ has_children: true
 
 # _Prantsuse keel - Minu rõõm_, Lauri Leesi
 
-![](/assets/images/prantsuse-keel-minu-room.jpg)
+![](../assets/images/prantsuse-keel-minu-room.jpg)
