@@ -17,7 +17,7 @@ parent: "Minu rõõm"
 8. Charles de Gaulle est un homme d'État.  
 9. Victor Hugo est un écrivain.  
 10. Blaise Pascal est un écrivain.  
-11. Alexandre Dumas père est un homme d'État.
+11. Alexandre Dumas père est un homme d'État.  
 
 ## B. C'est une pomme. - Ce sont des pommes.  
 1. Ce sont des hommes.  
