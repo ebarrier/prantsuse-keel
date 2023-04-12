@@ -45,3 +45,31 @@ parent: "Minu rõõm"
 10. Elles y vont.  
 11. Je n'y vais pas.  
 12. Nous n'y allons pas.  
+
+## D. ont / sont / font / vont  
+1. Le premier septembre les enfants vont à l'école.  
+2. Combien font 2 et 3?  
+3. 2 et 3 font 5.  
+4. Mes parents ont une petite maison près de Tallinn.  
+5. Qu'est-ce qu'ils font tes parents?  
+6. Ils sont professeurs.  
+7. Quand trois poules vont aux champs, la première marche devant.  
+8. J'aime bien les Français. Ils sont très sympas.  
+9. Chaque dimanche ils vont à l'église.  
+10. Toute la semaine ils font des bêtises.  
+11. Monsieur et madame Dupont ont deux enfants.  
+12. Leurs enfants sont paresseux.  
+
+## E. Traduisez:  
+1. Que fais-tu en été?  
+2. Que faites-vous en été?  
+3. Je vais à la campagne.  
+4. Nous allons à Paris.  
+5. Que fais-tu à la campagne?  
+6. Que faites-vous à Paris?  
+7. Que fait ton père?  
+8. Que font tes grands-parents?  
+9. Mon grand-père est mort.  
+10. Ma grand-mère habite à la campagne.  
+11. Elle a une petite ferme.  
+12. Elle cultive des pommes de terres.  
