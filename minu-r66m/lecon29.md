@@ -17,8 +17,8 @@ parent: "Minu rõõm"
 8. Repose-toi!  
 9. Reposez-vous! 
 10. Mange cette pomme!  
-11. Mangez cette banane!
-12. Sois brave!
+11. Mangez cette banane!  
+12. Sois brave!  
 
 ## B. à (à la, à l', au, aux) / en  
 1. En Provence il fait très chaud en été.  
@@ -34,16 +34,16 @@ parent: "Minu rõõm"
 11. En passant par la Lorraine, rencontrai trois capitaines.  
 12. Nous restons 3 jours à Paris, puis nous allons en Bretagne.  
 
-## C. en Bretagne / en Normandie / en Bourgogne / en Alsace / en Lorraine / en Provence / en île-de-France  
+## C. en Bretagne / en Normandie / en Bourgogne / en Alsace / en Lorraine / en Provence / en Île-de-France  
 1. Marseille se trouve en Provence.  
 2. Dijon se trouve en Bourgogne.  
-3. Paris se trouve en île-de-France.  
+3. Paris se trouve en Île-de-France.  
 4. Strasbourg se trouve en Alsace.  
 5. Nice se trouve en Provence.  
 6. Caen se trouve en Normandie.  
 7. Cannes se trouve en Provence.  
 8. Verdun se trouve en Lorraine.  
-9. Versailles se trouve en île-de-France.  
-10. Le Mont-Saint-Michel se trouve en Normandie.  
+9. Versailles se trouve en Île-de-France.  
+10. Le Mont Saint-Michel se trouve en Normandie.  
 11. Saint-Malo se trouve en Bretagne.  
 12. Rouen se trouve en Normandie.  
