@@ -13,7 +13,7 @@ parent: "Minu rõõm"
 4. Vous avez mangé des bonbons.  
 5. Il a fait du vélo.  
 6. Ils ont fait du ski.  
-7. j'ai été à Paris.  
+7. J'ai été à Paris.  
 8. Nous avons été en France.  
 9. Tu as pris ton petit-déjeuner.  
 10. Vous avez pris votre dîner.  
