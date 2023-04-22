@@ -12,7 +12,7 @@ parent: "Minu rõõm"
 3. Nous sommes tombés malade.  
 4. Vous êtes tombés malade.  
 5. Ils sont tombés malade.  
-6. Je suis allé à Dijon.  
+6. Je suis allé(e) à Dijon.  
 7. Nous sommes allés à Rouen.  
 8. Ils sont allés à Caen.  
 9. Je suis venu(e) à l'école.  
