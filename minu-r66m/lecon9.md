@@ -19,7 +19,7 @@ parent: "Minu rõõm"
 10. Il est venu à la plage.  
 11. Nous sommes venus au concert.  
 
-## B. le / la / l' / les
+## B. le / la / l' / les  
 ## Je regarde Pierre. - Je le regarde.  
 1. Je la regarde.  
 2. Je les regarde.  
