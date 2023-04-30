@@ -34,7 +34,7 @@ parent: "Minu rõõm"
 12. Ce sont des bocaux.  
 
 ## C. Traduisez:  
-1. Va-t-en!  
+1. Va-t'en!  
 2. Allez-vous-en!  
 3. Tais-toi!  
 4. Taisez-vous!  
@@ -42,7 +42,7 @@ parent: "Minu rõõm"
 6. Asseyez-vous!  
 7. Lève-toi!  
 8. Levez-vous!  
-9. Souviens-toi!  
-10. Souvenez-vous!  
-11. Fais-attention!  
-12. Faites-attention!  
+9. Rappelle-toi!  
+10. Rappelez-vous!  
+11. Sois prudent(e)!  
+12. Soyez prudent(e)s!  
