@@ -6,7 +6,7 @@ permalink: /:path/:basename
 parent: "Minu rõõm"
 ---
 
-## A. un kilo / un litre / un verre / un bouquet
+## A. un kilo / un litre / un verre / un bouquet  
 ## Je prends du sucre. - Un kilo de sucre, s'il vous plaît.  
 1. Un litre de lait, s'il vous plaît.   
 2. Un kilo de viande, s'il vous plaît.  
