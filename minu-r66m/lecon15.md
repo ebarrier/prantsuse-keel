@@ -25,7 +25,7 @@ parent: "Minu rõõm"
 3. Ils sont malades, n'est-ce pas?  
 4. Ils ont peur, pourquoi?  
 5. En hiver les enfants font de la luge et du ski.  
-6. Pierre et Michel vont à Paris.
+6. Pierre et Michel vont à Paris.  
 Pierre et Michel sont à Paris.  
 7. Monsieur et madame Millet ont trois enfants.  
 8. Combien font vingt et trente?  
