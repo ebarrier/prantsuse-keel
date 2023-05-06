@@ -41,7 +41,7 @@ parent: "Minu rõõm"
 4. En général, le mot "Noël" est masculin.  
 5. Parfois il est féminin.  
 6. C'est faux?  
-Es-ce faux?  
+Est-ce faux?  
 7. Oui, c'est faux.  
 8. Non, ce n'est pas faux.  
 9. C'est juste.  
