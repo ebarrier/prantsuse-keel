@@ -35,7 +35,7 @@ parent: "Minu rõõm"
 11. Ils se sont réveillés.  
 12. Ils se sont levés.  
 
-## quel? / quelle?  
+## C. quel? / quelle?  
 ## Tu lis un livre. - Quel livre lis-tu?
 1. Quel journal lis-tu?  
 2. Quelle musique de chambre aimes-tu?  
