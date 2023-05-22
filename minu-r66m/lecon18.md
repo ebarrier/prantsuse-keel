@@ -7,7 +7,7 @@ parent: "Minu rõõm"
 ---
 
 ## A. J'ai mangé. - Je n'ai pas mangé.
-1. Le Corbeau n'a pas trouvé un morceau de fromage.   
+1. Le Corbeau n'a pas trouvé un morceau de fromage.  
 2. Le Corbeau n'a pas perdu la tête.  
 3. Je ne suis pas allé(e) au concert.  
 4. Ils ne sont pas allés à l'exposition. 
@@ -21,26 +21,26 @@ parent: "Minu rõõm"
 12. Je n'ai pas regardé la télé.  
 
 ## B. Il est 1 heure. - Il est une heure.  
-1. Il est une heure trente.
+1. Il est une heure trente.  
 Il est une heure et demie.  
-2. Il est quatre heures quinze.
+2. Il est quatre heures quinze.  
 Il est quatre heures et quart.  
-3. Il est neuf heures quarante-cinq.
+3. Il est neuf heures quarante-cinq.  
 Il est dix heures moins le quart.  
 4. Il est midi.  
 5. Il est minuit.  
 6. Il est sept heures quarante.  
-Il est huit heures moins vingt.
+Il est huit heures moins vingt.  
 7. Il est trois heures douze.  
 8. Il est huit heures cinquante.  
-Il est neuf heures moins dix.
+Il est neuf heures moins dix.  
 9. Il est deux heures trente.  
 Il est deux heures et demie.  
 10. Il est onze heures quatorze.  
 11. Il est neuf heures quinze.  
-Il est neuf heures et quart.
-12. Il est midi trente.
-Il est midi et demie.
+Il est neuf heures et quart.  
+12. Il est midi trente.  
+Il est midi et demie.  
 
 ## C. Traduisez:  
 1. Je me réveille à sept heures et demie.  
@@ -48,11 +48,11 @@ Il est midi et demie.
 3. Ensuite je prends mon déjeuner.  
 4. Je sors à neuf heures moins le quart.  
 5. Je prends le bus numéro ... .  
-Je prends l'autobus numéro ... .
+Je prends l'autobus numéro ... .  
 6. L'école commence à dix heures moins le quart.  
 Les leçons commencent à dix heures moins le quart.  
 7. L'école finit à deux heures.  
-Les classes finissent à deux heures.
+Les classes finissent à deux heures.  
 8. Puis je rentre chez moi.  
 9. Je mange, je me repose et je fais mes devoirs.  
 10. Je dîne à six heures.  
