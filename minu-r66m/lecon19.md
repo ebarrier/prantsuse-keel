@@ -36,7 +36,7 @@ parent: "Minu rõõm"
 
 ## C. Traduisez:
 1. Hier je me suis réveillé(e) à 7 heures.  
-2. Je suis allé(e) dans la salle de bain  et je me suis lavé(e).  
+2. Je suis allé(e) dans la salle de bain et je me suis lavé(e).  
 3. Ensuite j'ai pris mon petit déjeuner.  
 4. Je suis sorti(e) à neuf heures moins le quart.  
 5. J'ai pris le bus numéro ... .  
