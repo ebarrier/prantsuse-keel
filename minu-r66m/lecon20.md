@@ -32,7 +32,7 @@ ___cuillère___, not ~~cuiller~~
 8. La souris est grise.  
 9. Les Africains sont noirs.  
 10. Les roses sont rouges.  
-11. Les tulipes sont jaunes. 
+11. Les tulipes sont jaunes.  
 12. Le drapeau français est bleu blanc rouge et le drapeau estonien est bleu noir blanc.  
 
 ## C. Tu te couches. - Couche-toi!
