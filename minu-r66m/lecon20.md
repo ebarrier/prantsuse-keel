@@ -26,7 +26,7 @@ ___cuillère___, not ~~cuiller~~
 2. Les framboises sont rouges.  
 3. Les pommes sont vertes.  
 4. La neige est blanche.  
-5. La terre est bleue.  
+5. La terre est noire.  
 6. Le ciel est bleu.  
 7. Les citrons sont jaunes.  
 8. La souris est grise.  
