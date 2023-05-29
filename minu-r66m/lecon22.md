@@ -18,7 +18,7 @@ parent: "Minu rõõm"
 9. Pourquoi bavardez-vous?  
 10. Pourquoi bailles-tu?  
 11. Pourquoi baille-t-elle?  
-12. Pourquoi baillez-vous?
+12. Pourquoi baillez-vous?  
 
 ## B. beau / belle; doux / douce; etc.
 1. Paris est belle.  
@@ -38,15 +38,15 @@ parent: "Minu rõõm"
 1. C'est quand ton anniversaire?  
 2. C'est quand Noël?  
 3. C'est quand Pâques?  
-4. C'est quand le jour de l'an?
+4. C'est quand le jour de l'an?  
 5. C'est quand le premier jour d'école?  
-6. Qu'est-ce que cela veut dire "ressusciter"?
+6. Qu'est-ce que cela veut dire "ressusciter"?  
 Qu'est-ce que ça veut dire "ressusciter"?  
-Que veut dire "ressusciter"?
-7. Qu'est-ce que cela veut dire "le Vendredi Saint"?
+Que veut dire "ressusciter"?  
+7. Qu'est-ce que cela veut dire "le Vendredi Saint"?  
 Qu'est-ce que ça veut dire "le Vendredi Saint"?  
 Que veut dire "le Vendredi Saint"?  
-8. Qu'est-ce que cela veut dire "la Saint-Sylvestre"?
+8. Qu'est-ce que cela veut dire "la Saint-Sylvestre"?  
 Qu'est-ce que ça veut dire "la Saint-Sylvestre"?  
 Que veut dire "la Saint-Sylvestre"?  
 9. Pourquoi mange-t-on des oeufs à Pâques?  
