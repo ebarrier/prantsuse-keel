@@ -18,7 +18,7 @@ parent: "Minu rõõm"
 9. Quand je vois notre professeur, je lui dis bonjour.  
 10. Quand les classes sont finies, je rentre à la maison.  
 11. Quand je rentre chez moi, je fais mes devoirs.  
-12. Qaund j'ai beaucoup de temps, je joue avec mes copains et mes copines.
+12. Quand j'ai beaucoup de temps, je joue avec mes copains et mes copines.
 
 ## B. le / la / l' / lui
 1. Voilà Pierre. Je lui dis bonjour.  
@@ -50,4 +50,4 @@ Aimes-tu Marie?
 10. Est-ce que aimes Pierre?  
 Aimes-tu Pierre?  
 11. Non, je ne l'aime pas.  
-12. Voici mes amis. Je les aime beaucoup beaucoup  
+12. Voici mes amis. Je les aime beaucoup beaucoup.  
