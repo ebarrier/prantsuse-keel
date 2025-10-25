@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Leçon 19"
-nav_order: 19
+title: "Leçon 20"
+nav_order: 20
 permalink: /:path/:basename
 parent: "Minu arm"
 ---
