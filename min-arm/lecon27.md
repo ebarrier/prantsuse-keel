@@ -6,10 +6,10 @@ permalink: /:path/:basename
 parent: "Minu arm"
 ---
 
-## Traduis:  
-## mon / ma /mes  
-## ton / ta / tes  
-## son / sa /ses  
+## Traduis: 
+__mon / ma /mes__  
+__ton / ta / tes__  
+__son / sa /ses__  
 1. J'aime ma mère.  
 2. Tu aimes ta mère.  
 3. Il / elle aime sa mère.  
