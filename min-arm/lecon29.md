@@ -7,7 +7,7 @@ parent: "Minu arm"
 ---
 
 ## Je veux avoir un vélo
-## (ma tahan saada jalgratast).  
+__(ma tahan saada jalgratast).__  
 1. Je veux avoir un blue-jean.  
 2. Michel veut avoir des bonbons.  
 3. Marianne veut avoir une nouvelle robe.  
