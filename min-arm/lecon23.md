@@ -8,9 +8,9 @@ parent: "Minu arm"
 
 ## je (j') / tu / il / elle  
 _The exercise probably expects pupils to associate:_  
-_je/j' -> mon/ma_  
-_tu -> ton/ta_  
-_il/elle -> son/sa_  
+_je/j' -> mon/ma/mes_  
+_tu -> ton/ta/tes_  
+_il/elle -> son/sa/ses_  
 _However except for "tu", which must be used when the verb finishes with 's', all other sentences are grammatically correct with je/il/elle._
 1. Tu aimes ton père.  
 2. J' / il / elle aime sa mère.  
